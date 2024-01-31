@@ -6,8 +6,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Multi-platform development enthusiast - one line of code at a time
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divaariani&label=Profile%20views&color=85586F&style=flat" alt="divaariani" /> </p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/divarianii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://id.linkedin.com/in/diva-ariani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@divarianii) 
 
@@ -20,3 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divaariani&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divaariani&label=Profile%20views&color=85586F&style=flat" alt="divaariani" /> </p>
