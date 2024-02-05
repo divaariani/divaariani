@@ -1,4 +1,4 @@
-# Hi Buddies 👋
+# hai hello 아녕 Buddies 👋
 💻 I’m currently working on software development </br>
 📚 Never ending learning flutter, native android, native ios, and web </br>
 💬 Ask me about flutter and mobile development </br>
