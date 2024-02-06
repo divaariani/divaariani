@@ -1,10 +1,11 @@
-# hai hello 아녕 Buddies 👋
+# hai hello 안녕 Buddies 👋
 💻 I’m currently working on software development </br>
 📚 Never ending learning flutter, native android, native ios, and web </br>
 💬 Ask me about flutter and mobile development </br>
+💡  Multi-platform development enthusiast </br>
 📧 How to reach me: diva.ariani25@gmail.com </br>
 💅 Pronouns: she/her </br>
-💡  Multi-platform development enthusiast
+🌏 ina/eng/한
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divarianii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diva-ariani) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@divarianii) 
