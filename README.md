@@ -3,7 +3,7 @@
 📚 Never ending learning flutter, native android, native ios, and web </br>
 💬 Ask me about flutter and mobile development </br>
 💡  Multi-platform development enthusiast </br>
-📁 [My Portofolio](https://divaariani.github.io/com) </br>
+📁 [My Portfolio](https://divaariani.github.io/com) </br>
 💅 Pronouns: she/her </br>
 🌏 ina/eng/한
 
