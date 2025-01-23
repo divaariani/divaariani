@@ -4,7 +4,7 @@
 💬 Ask me about flutter and mobile development </br>
 💡  Computer science enthusiast </br>
 📁 [My Portfolio](https://divaariani.github.io/com) </br>
-📁 [Mobile Development Syllabus written by me](https://drive.google.com/drive/folders/14ZVM9yf6gT8tkwmx-5FOhdDYGT4_0lPK?usp=sharing) </br>
+📚 [Mobile Development Syllabus (written by me)](https://drive.google.com/drive/folders/14ZVM9yf6gT8tkwmx-5FOhdDYGT4_0lPK?usp=sharing) </br>
 💅 Pronouns: she/her </br>
 🌏 ina/eng/한
 
