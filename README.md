@@ -5,7 +5,6 @@
 💡  Computer science enthusiast </br>
 🎓 Software engineering technology graduate </br>
 📁 [My Portfolio](https://divaariani.github.io/com) </br>
-✍🏻 [Mobile Syllabus (written by me)](https://drive.google.com/drive/folders/14ZVM9yf6gT8tkwmx-5FOhdDYGT4_0lPK?usp=sharing) </br>
 💅 Pronouns: she/her </br>
 🌏 ina/eng/한
 
