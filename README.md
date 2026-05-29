@@ -4,7 +4,6 @@
 💬 Ask me about flutter and mobile development </br>
 💡  Computer science enthusiast </br>
 🎓 Software engineering technology graduate </br>
-📁 [My Portfolio](https://divaariani.github.io/com) </br>
 💅 Pronouns: she/her </br>
 🌏 ina/eng/한
 
